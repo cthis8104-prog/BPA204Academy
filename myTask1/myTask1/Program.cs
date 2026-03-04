@@ -9,9 +9,9 @@
              Console.WriteLine($"Full name: {name} {lastName}");*/
 
 /*
-            int height = int.Parse(Console.ReadLine());
-            int weight = int.Parse(Console.ReadLine());
-            int BMi = (height) / (weight * 2);
+            double height = int.Parse(Console.ReadLine());
+            double weight = int.Parse(Console.ReadLine());
+            double BMi = (height) / (weight * 2);
             if (BMi >= 25)
             {
                 Console.WriteLine("artiq cekili");
