@@ -57,7 +57,7 @@
                     }*/
            /* int value1 = int.Parse(Console.ReadLine());
             int value2 = int.Parse(Console.ReadLine());
-            if (value1 * value2 > 0)
+            if (value1 * value2 >= 0)
             {
                 Console.WriteLine("hasil musbetdir");
             }
